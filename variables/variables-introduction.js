@@ -1,7 +1,7 @@
 /* 
 1- As variáveis armazenam dados que podem ser definidos, atualizados, e recuperados;
 2- Existem alguns tipos de dados importantes que uma variável consegue armazenar: number -> (número), string -> (texto), null -> (nulo), undefined -> (indefinido),
-   boolean -> (boleano = valores -> true ou false), object -> (objeto), functions -> (funções), arrays -> (lista)
+   boolean -> (boleano = valores -> true ou false), object -> (objeto), functions -> (funções), arrays -> (listas)
 */
 
 /*-variables examples*/
