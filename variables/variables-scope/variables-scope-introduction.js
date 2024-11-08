@@ -1,11 +1,11 @@
 /* 
- variables scope context
- O escopo refere-se ao lugar onde possamos acesar a variável no nosso algoritmo;
+ 1 - variables scope context
+ 2 - O escopo refere-se ao lugar onde possamos acesar a variável no nosso algoritmo;
  as variáveis podem ser locais ou globais
 */
 
 /*
-  examples of  variables scope context
+  examples of variables scope context
 */
 
 var myVariable = "global"; // variable -> global
